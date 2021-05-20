@@ -6,3 +6,4 @@ Sources:
 - [double-double-streaks.csv](https://stathead.com/sharing/CUWm7)
 - [acnh-creature-puns.csv](https://github.com/alexislours/acnh-message)
 - [wings.csv](https://www.boredpanda.com/chicken-wing-pricing-structure-math-graps-formulas/?utm_source=google&utm_medium=organic&utm_campaign=organic)
+- [costco.csv](https://en.wikipedia.org/wiki/List_of_metropolitan_statistical_areas) and google maps for costcos
